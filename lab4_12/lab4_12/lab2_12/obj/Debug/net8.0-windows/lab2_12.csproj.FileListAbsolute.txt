@@ -1,0 +1,68 @@
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\bin\Debug\net8.0-windows\lab2_12.exe
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\bin\Debug\net8.0-windows\lab2_12.deps.json
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\bin\Debug\net8.0-windows\lab2_12.runtimeconfig.json
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\bin\Debug\net8.0-windows\lab2_12.dll
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\bin\Debug\net8.0-windows\lab2_12.pdb
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.csproj.AssemblyReference.cache
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\styles.baml
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\AddRoomPage.g.cs
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\FinePage.g.cs
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\GetInfo.g.cs
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\KickPatient.g.cs
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\Occupy.g.cs
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12_MarkupCompile.cache
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12_MarkupCompile.lref
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\AddRoomPage.baml
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\FinePage.baml
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\GetInfo.baml
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\KickPatient.baml
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\Occupy.baml
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.g.resources
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.AssemblyInfoInputs.cache
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.AssemblyInfo.cs
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.csproj.CoreCompileInputs.cache
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.csproj.Up2Date
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.dll
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\refint\lab2_12.dll
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.pdb
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.genruntimeconfig.cache
+C:\Users\bodna\OneDrive\Desktop\ІПЗ Нові\12\4\lab4_12\lab2_12\obj\Debug\net8.0-windows\ref\lab2_12.dll
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\bin\Debug\net8.0-windows\lab2_12.exe
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\bin\Debug\net8.0-windows\lab2_12.deps.json
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\bin\Debug\net8.0-windows\lab2_12.runtimeconfig.json
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\bin\Debug\net8.0-windows\lab2_12.dll
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\bin\Debug\net8.0-windows\lab2_12.pdb
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.csproj.AssemblyReference.cache
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\MainWindow.baml
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\styles.baml
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\AddRoomPage.g.cs
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\FinePage.g.cs
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\GetInfo.g.cs
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\KickPatient.g.cs
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\Occupy.g.cs
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\App.g.cs
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12_MarkupCompile.cache
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12_MarkupCompile.lref
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\AddRoomPage.baml
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\FinePage.baml
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\GetInfo.baml
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\KickPatient.baml
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\Pages\Occupy.baml
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.g.resources
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.GeneratedMSBuildEditorConfig.editorconfig
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.AssemblyInfoInputs.cache
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.AssemblyInfo.cs
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.csproj.CoreCompileInputs.cache
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.csproj.Up2Date
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.dll
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\refint\lab2_12.dll
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.pdb
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\lab2_12.genruntimeconfig.cache
+D:\ІПЗ\lab4_12\lab4_12\lab2_12\obj\Debug\net8.0-windows\ref\lab2_12.dll
